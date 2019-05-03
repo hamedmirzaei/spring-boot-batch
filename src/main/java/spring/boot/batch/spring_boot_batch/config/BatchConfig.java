@@ -34,7 +34,10 @@ public class BatchConfig {
 
     @Bean
     public Job job() {
-        return jobBuilderFactory.get("job").incrementer(new RunIdIncrementer()).start(stepOne()).next(stepTwo()).build();
+        return jobBuilderFactory.get("job").incrementer(new RunIdIncrementer())
+                .start(stepOne())
+                .next(stepTwo())
+                .build();
     }
 
 }
