@@ -2,7 +2,7 @@
 
 This is a simple example to show you how Spring Batch works with Spring Boot.
 
-# Libraqries and Tools
+# Libraries and Tools
 * [Module] `Spring Boot`
 * [Module] `Spring Batch`
 * [Library for auto-generating getters, setters, constructors, slf4j and others] `Lombok`
