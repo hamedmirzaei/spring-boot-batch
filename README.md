@@ -1,4 +1,4 @@
-# Spring Boot + Spting Batch [Annotation Based]
+# Spring Boot + Spring Batch [Annotation Based]
 
 This is a simple example to show you how Spring Batch works with Spring Boot.
 
