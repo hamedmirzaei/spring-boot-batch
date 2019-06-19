@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>spring.boot.batch</groupId>
-    <artifactId>spring_boot_batch</artifactId>
+    <artifactId>spring-boot-batch</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring_boot_batch</name>
+    <name>spring-boot-batch</name>
     <description>Demo project for Spring Boot + Batch</description>
 
     <properties>
